@@ -22,10 +22,10 @@ import android.widget.ImageView;
 import com.elliott.androidimagerloader.loader.ImageLoader;
 import com.elliott.androidimagerloader.util.MyUtils;
 
-
 /**
- * activity
+ * activity  
  * @author Administrator
+ * git提交成功
  */
 public class MainActivity extends Activity implements OnScrollListener{
     private List<String> mUrList = new ArrayList<String>();
